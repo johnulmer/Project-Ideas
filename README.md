@@ -1,4 +1,4 @@
-# Project-Ideas
+# Project Ideas
 
 ## Wellness Event Site
 Site to support the functionality of events like "10k a Day" (the Liberty Mutual step counting challenge) but supporting events beyond steps / day.
