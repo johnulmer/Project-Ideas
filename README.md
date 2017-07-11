@@ -24,6 +24,7 @@ Who wouldn't enjoy filing a home or auto claim with Alexa walking you through an
 * Could be used in vehicles, since [Ford](https://www.theverge.com/ces/2017/1/4/14173324/ford-amazon-echo-alexa-integration-ces-2017) is already planning to offer Alexa on Board
 * Report on or check status of the claim
 * Integrate with Broker / Agent voicemail using mobile phone integration / facetime (for Echo Show)
+* Comes with a branded cup-holder sized for the Echo Dot to establish a positive view of sponsoring company
 
 ## R-P-G-o-R-A-M-A
 An integrated site to support the Pathfinder role-playing game system.  The tools exist, the site would integrate them and add data storage and display capabilities.
