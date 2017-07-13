@@ -1,3 +1,35 @@
+# Final Project Details - Wellness Event Site
+
+## Personal Goals for Final Project:
+* I am interested in integration, so I would like to compose a site or application from code that the team writes
+as well as including functionality from external sources.  Fitbit and Facebook integrations would demonstrate 
+receiving / utilizing data and pushing data out to an external system.
+* I am extremely interested in big data - spotting trends, finding answers analytics.  From my prior work in 
+Medicaid I think we're missing out on answers just because we aren't analyzing the data that we already have.  
+This could be shown or explored in a lot of ways but data for wellness events is a starting point.
+
+## User user stories
+* As a user, I want to create and update a profile on the site so I can participate in a fitness community.
+* As a user, I want to register my activity tracker (fitbit, possibly apple watch? others?) on the site so that 
+my activity is automatically tracked. (integration point)
+* As a user, I want to choose to make elements of my profile public or private so I can control what others see
+* As a user, I want to sign up for events and allow my activity tracker data to be included in the event data set
+so that my data can be shared with the community.
+* As a user, I want to see visualizations of specific events so I can see what happened during a particular event.
+Something like a heat map of heartrates, or steps per day, or some way of showing biked miles. (big data)
+* As a user, I want to see the data for multiple events so I can see how the community has done over time.  
+I'm not sure what would make sense, I'm sure there are options. (big data)
+* As a user, I want to push "brag" data to Facebook - participation, badges, etc - so my friends there can see
+what I've done. (integration point)
+* As a user, I want the option to compete against other users (based on events participation, max steps, 
+active / day, etc) for inspiration to strive harder.
+
+## Admin user stories
+* As an admin, I want to CRUD events so I can maintain the site.
+* As an admin, I want the ability to access de-identified data en masse for analytics. (big data) 
+* As an admin, I want to be able to access individual gamification data to award prizes to inspire participation
+and competition.
+
 # Project Ideas
 
 ## Wellness Event Site
