@@ -1,4 +1,4 @@
-# Final Project Details - Wellness Event Site
+# Final Project Details: Wellness Event Site
 
 ## Personal Goals for Final Project:
 * I am interested in **integration**, so I would like to compose a site or application from code that the team writes
