@@ -1,7 +1,7 @@
 # Final Project Details - Wellness Event Site
 
 ## Personal Goals for Final Project:
-* I am interested in integration, so I would like to compose a site or application from code that the team writes
+* I am interested in **integration**, so I would like to compose a site or application from code that the team writes
 as well as including functionality from external sources.  Fitbit and Facebook integrations would demonstrate 
 receiving / utilizing data and pushing data out to an external system.
 * I am extremely interested in big data - spotting trends, finding answers analytics.  From my prior work in 
